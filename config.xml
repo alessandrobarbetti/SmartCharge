@@ -32,6 +32,7 @@
 
 
     <!-- iPhone and iPod touch -->
+    <splash src="splash.png" />
     <splash src="www/images/splashes/Default.png" platform="ios" width="320" height="480" />
     <splash src="www/images/splashes/Default@2x.png" platform="ios" width="640" height="960" />
 
